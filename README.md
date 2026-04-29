@@ -1,6 +1,3 @@
 Olá! Esse é o meu primeiro commit.
 
-
-
-Coloquei um novo paragrafo no README.
-
+Olá, estou editando um paragrafo.
